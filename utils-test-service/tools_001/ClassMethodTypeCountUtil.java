@@ -32,7 +32,7 @@ public class ClassMethodTypeCountUtil {
             Map<String, Integer> returnTypeCount = getReturnTypeCount(clazz);
             System.out.println( className + "类的统计结果：");
             for (Map.Entry<String, Integer> entry : returnTypeCount.entrySet()) {
-                System.out.println( "返回值类型为{"+ entry.getKey() + "}的方法: 共 " + entry.getValue() + " 个");
+                System.out.println( "返回值类型为{"+ entry.getKey() + "}的方法：共 " + entry.getValue() + " 个");
             }
         } catch (ClassNotFoundException e) {
             e.getStackTrace();
