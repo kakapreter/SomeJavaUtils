@@ -1,4 +1,4 @@
-package cn.tedu.tool_001.util;
+package xxx.xxx.xxx.util;
 
 import java.lang.reflect.Method;
 import java.util.HashMap;
