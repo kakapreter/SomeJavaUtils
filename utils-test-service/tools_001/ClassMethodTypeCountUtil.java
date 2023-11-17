@@ -23,7 +23,7 @@ public class ClassMethodTypeCountUtil {
     }
 
     /**
-     * 传入一个全类名
+     * 类的全限定名
      * @param className
      */
     public static void printClassMethodTypeCount(String className){
