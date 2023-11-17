@@ -1,4 +1,4 @@
-package cn.tedu.tool_001.util;
+package xxx.xxx.xxx.util;
 
 /**
  * 测试代码运行时间
